@@ -1,2 +1,2 @@
-# python
-코딩도장 파이썬
+# BAEKJOON_PY
+백준 파이썬
